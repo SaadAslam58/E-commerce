@@ -1,0 +1,27 @@
+
+.flex-all-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+}
+.search button {
+    font-family: "Playfair Display", serif;
+    font-weight: 400;
+}
+.btn {
+    padding: 2px 8px;
+    background-color:#00c0ff52;
+    color:black;
+    border:2px solid white;
+    border-radius: 22px;
+    cursor: pointer;}
+
+    .text-center {
+        text-align: center;
+        color: peru;
+    }
+    .my-2{
+        margin: 10px 0;
+        color: black;
+    }
